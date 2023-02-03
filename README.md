@@ -8,6 +8,9 @@ Target: "IS_SUCCESSFUL" To Remove: "EIN","NAME" Features: All other variables
 
 ## Compiling, Training, and Evaluating Model
 Attempt 1: 2 Hidden Node layer, 80 and 30 neurons, with 50 Epochs.
+Attempt 2: 2 Hidden Node Layer, 60 and 40 neurons, with 50 Epochs. 
+
+![alt text](/Image)
 
 ## Summary
 
