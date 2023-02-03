@@ -10,7 +10,7 @@ Target: "IS_SUCCESSFUL" To Remove: "EIN","NAME" Features: All other variables
 Attempt 1: 2 Hidden Node layer, 80 and 30 neurons, with 50 Epochs.
 Attempt 2: 2 Hidden Node Layer, 60 and 40 neurons, with 50 Epochs. 
 
-![alt text](/Image)
+![alt text](/Users/shreya/dev/Neuron_Network/Neural_Network_Charity_Analysis)
 
 ## Summary
 
